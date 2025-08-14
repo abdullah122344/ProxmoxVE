@@ -105,7 +105,7 @@ function cleanup() {
   rm -rf $TEMP_DIR
 }
 
-TEMP_DIR=$(mktemp -d)
+TEMP_DIR=$(mktemp -d -p /var/tmp)
 pushd $TEMP_DIR >/dev/null
 if whiptail --backtitle "Proxmox VE Helper Scripts" --title "Umbrel OS VM" --yesno "This will create a New Umbrel OS VM. Proceed?" 10 58; then
   :
