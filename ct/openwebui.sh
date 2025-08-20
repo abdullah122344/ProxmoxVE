@@ -35,7 +35,7 @@ function update_script() {
     if [ "$OLLAMA_VERSION" != "$RELEASE" ]; then
       rm -rf /usr/lib/ollama
       rm -rf /usr/bin/ollama
-      curl -fsSLO https://ollama.com/download/ollama-linux-amd64.tgz
+      curl -fsSLO --http1.1 https://ollama.com/download/ollama-linux-amd64.tgz
       tar -C /usr -xzf ollama-linux-amd64.tgz
       rm -rf ollama-linux-amd64.tgz
       msg_ok "Ollama updated to version $RELEASE"
