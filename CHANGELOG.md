@@ -10,6 +10,71 @@
 > [!CAUTION]
 Exercise vigilance regarding copycat or coat-tailing sites that seek to exploit the project's popularity for potentially malicious purposes.
 
+## 2025-08-20
+
+## 2025-08-19
+
+### 🆕 New Scripts
+
+  - Debian 13 VM [@MickLesk](https://github.com/MickLesk) ([#6970](https://github.com/community-scripts/ProxmoxVE/pull/6970))
+- Swizzin ([#6962](https://github.com/community-scripts/ProxmoxVE/pull/6962))
+
+### 🚀 Updated Scripts
+
+  - #### 🐞 Bug Fixes
+
+    - [core]: create_lxc - fix offline issue with alpine packages [@MickLesk](https://github.com/MickLesk) ([#6994](https://github.com/community-scripts/ProxmoxVE/pull/6994))
+    - OpenObserve: Fix release fetching [@tremor021](https://github.com/tremor021) ([#6961](https://github.com/community-scripts/ProxmoxVE/pull/6961))
+    - Update hev-socks5-server-install.sh [@iAzamat2](https://github.com/iAzamat2) ([#6953](https://github.com/community-scripts/ProxmoxVE/pull/6953))
+
+  - #### ✨ New Features
+
+    - Refactor: Glances (+ Feature Bump) [@MickLesk](https://github.com/MickLesk) ([#6976](https://github.com/community-scripts/ProxmoxVE/pull/6976))
+    - [core]: add new features to create_lxc [@MickLesk](https://github.com/MickLesk) ([#6979](https://github.com/community-scripts/ProxmoxVE/pull/6979))
+    - [core]: extend setup_uv to work with alpine [@MickLesk](https://github.com/MickLesk) ([#6978](https://github.com/community-scripts/ProxmoxVE/pull/6978))
+    - Immich: Bump version to 1.138.1 [@vhsdream](https://github.com/vhsdream) ([#6984](https://github.com/community-scripts/ProxmoxVE/pull/6984))
+
+  - #### 🔧 Refactor
+
+    - Refactor: Tdarr [@MickLesk](https://github.com/MickLesk) ([#6969](https://github.com/community-scripts/ProxmoxVE/pull/6969))
+    - Refactor: The Lounge [@tremor021](https://github.com/tremor021) ([#6958](https://github.com/community-scripts/ProxmoxVE/pull/6958))
+    - Refactor: TeddyCloud [@tremor021](https://github.com/tremor021) ([#6963](https://github.com/community-scripts/ProxmoxVE/pull/6963))
+    - Refactor: Technitium DNS [@tremor021](https://github.com/tremor021) ([#6968](https://github.com/community-scripts/ProxmoxVE/pull/6968))
+
+### 🌐 Website
+
+  - #### 📝 Script Information
+
+    - [web]: update logos from reactive-resume & slskd [@MickLesk](https://github.com/MickLesk) ([#6990](https://github.com/community-scripts/ProxmoxVE/pull/6990))
+
+## 2025-08-18
+
+### 🆕 New Scripts
+
+  - CopyParty [@MickLesk](https://github.com/MickLesk) ([#6929](https://github.com/community-scripts/ProxmoxVE/pull/6929))
+- Twingate-Connector ([#6921](https://github.com/community-scripts/ProxmoxVE/pull/6921))
+
+### 🚀 Updated Scripts
+
+  - #### 🐞 Bug Fixes
+
+    - Keycloak: fix update function [@MickLesk](https://github.com/MickLesk) ([#6943](https://github.com/community-scripts/ProxmoxVE/pull/6943))
+    - Immich: add message to indicate image-processing library update check [@vhsdream](https://github.com/vhsdream) ([#6935](https://github.com/community-scripts/ProxmoxVE/pull/6935))
+    - fix(uptimekuma): unbound env variable [@vidonnus](https://github.com/vidonnus) ([#6922](https://github.com/community-scripts/ProxmoxVE/pull/6922))
+
+  - #### 🔧 Refactor
+
+    - Refactor: Traefik [@tremor021](https://github.com/tremor021) ([#6940](https://github.com/community-scripts/ProxmoxVE/pull/6940))
+    - Refactor: Traccar [@tremor021](https://github.com/tremor021) ([#6942](https://github.com/community-scripts/ProxmoxVE/pull/6942))
+    - Refactor: Umami [@tremor021](https://github.com/tremor021) ([#6939](https://github.com/community-scripts/ProxmoxVE/pull/6939))
+    - Refactor: GoMFT [@tremor021](https://github.com/tremor021) ([#6916](https://github.com/community-scripts/ProxmoxVE/pull/6916))
+
+### 🌐 Website
+
+  - #### 📝 Script Information
+
+    - OpenWRT: add info for VLAN-aware in frontend [@MickLesk](https://github.com/MickLesk) ([#6944](https://github.com/community-scripts/ProxmoxVE/pull/6944))
+
 ## 2025-08-17
 
 ## 2025-08-16
