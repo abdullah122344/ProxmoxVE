@@ -109,10 +109,10 @@ function update_script() {
 #!/usr/bin/env bash
 
 set -a
-. "$INSTALL_DIR"/.env
+. ${INSTALL_DIR}/.env
 set +a
 
-/usr/bin/node "$APP_DIR"/dist/main.js "\$@"
+/usr/bin/node ${APP_DIR}/dist/main.js "\$@"
 EOF
     chmod +x "$INSTALL_DIR"/start.sh
   fi

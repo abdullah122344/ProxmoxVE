@@ -1,13 +1,133 @@
 [
   {
-    "name": "gtsteffaniak/filebrowser",
-    "version": "v0.8.0-beta",
-    "date": "2025-08-19T23:00:51Z"
+    "name": "fuma-nama/fumadocs",
+    "version": "fumadocs-core@15.7.0",
+    "date": "2025-08-21T10:12:00Z"
+  },
+  {
+    "name": "emqx/emqx",
+    "version": "e6.0.0-M2.202508-rc.1",
+    "date": "2025-08-20T18:02:55Z"
+  },
+  {
+    "name": "semaphoreui/semaphore",
+    "version": "v2.16.18",
+    "date": "2025-08-21T08:19:58Z"
+  },
+  {
+    "name": "theonedev/onedev",
+    "version": "v12.0.5",
+    "date": "2025-08-21T07:12:27Z"
+  },
+  {
+    "name": "morpheus65535/bazarr",
+    "version": "v1.5.3-beta.10",
+    "date": "2025-07-15T06:07:03Z"
+  },
+  {
+    "name": "Jackett/Jackett",
+    "version": "v0.22.2319",
+    "date": "2025-08-21T05:52:32Z"
+  },
+  {
+    "name": "jeedom/core",
+    "version": "4.4.19",
+    "date": "2025-08-21T00:27:08Z"
+  },
+  {
+    "name": "steveiliop56/tinyauth",
+    "version": "v3.6.2",
+    "date": "2025-07-17T12:08:03Z"
+  },
+  {
+    "name": "keycloak/keycloak",
+    "version": "26.3.3",
+    "date": "2025-08-20T10:12:51Z"
+  },
+  {
+    "name": "ollama/ollama",
+    "version": "v0.11.6",
+    "date": "2025-08-20T21:00:13Z"
+  },
+  {
+    "name": "rcourtman/Pulse",
+    "version": "v4.6.0",
+    "date": "2025-08-20T20:53:43Z"
+  },
+  {
+    "name": "YunoHost/yunohost",
+    "version": "debian/12.1.14",
+    "date": "2025-08-20T20:52:44Z"
+  },
+  {
+    "name": "MediaBrowser/Emby.Releases",
+    "version": "4.9.1.2",
+    "date": "2025-06-26T22:08:00Z"
+  },
+  {
+    "name": "goauthentik/authentik",
+    "version": "version/2025.8.0",
+    "date": "2025-08-20T18:09:17Z"
+  },
+  {
+    "name": "jenkinsci/jenkins",
+    "version": "jenkins-2.516.2",
+    "date": "2025-08-20T17:15:26Z"
+  },
+  {
+    "name": "Checkmk/checkmk",
+    "version": "v2.4.0p10",
+    "date": "2025-08-20T14:05:06Z"
+  },
+  {
+    "name": "AdguardTeam/AdGuardHome",
+    "version": "v0.107.65",
+    "date": "2025-08-20T14:02:28Z"
+  },
+  {
+    "name": "n8n-io/n8n",
+    "version": "n8n@1.107.4",
+    "date": "2025-08-20T12:23:06Z"
+  },
+  {
+    "name": "cockpit-project/cockpit",
+    "version": "345",
+    "date": "2025-08-20T11:52:24Z"
+  },
+  {
+    "name": "openhab/openhab-core",
+    "version": "4.3.7",
+    "date": "2025-08-20T10:26:21Z"
+  },
+  {
+    "name": "apache/cassandra",
+    "version": "4.1.10-tentative",
+    "date": "2025-08-20T10:20:25Z"
+  },
+  {
+    "name": "duplicati/duplicati",
+    "version": "v2.1.2.0-2.1.2.0_beta_2025-08-20",
+    "date": "2025-08-20T08:15:46Z"
   },
   {
     "name": "esphome/esphome",
-    "version": "2025.7.5",
-    "date": "2025-08-05T03:37:52Z"
+    "version": "2025.8.0",
+    "date": "2025-08-20T07:58:12Z"
+  },
+  {
+    "name": "Luligu/matterbridge",
+    "version": "3.2.3",
+    "date": "2025-08-20T07:57:58Z"
+  },
+  {
+    "name": "mattermost/mattermost",
+    "version": "v10.5.10",
+    "date": "2025-08-15T12:12:06Z"
+  },
+  {
+    "name": "gtsteffaniak/filebrowser",
+    "version": "v0.8.0-beta",
+    "date": "2025-08-20T01:02:10Z"
   },
   {
     "name": "TwiN/gatus",
@@ -18,16 +138,6 @@
     "name": "mealie-recipes/mealie",
     "version": "v3.1.1",
     "date": "2025-08-19T20:23:43Z"
-  },
-  {
-    "name": "MediaBrowser/Emby.Releases",
-    "version": "4.9.1.2",
-    "date": "2025-06-26T22:08:00Z"
-  },
-  {
-    "name": "rcourtman/Pulse",
-    "version": "v4.4.0",
-    "date": "2025-08-17T18:47:35Z"
   },
   {
     "name": "HabitRPG/habitica",
@@ -65,34 +175,14 @@
     "date": "2025-08-19T16:46:00Z"
   },
   {
-    "name": "jenkinsci/jenkins",
-    "version": "jenkins-2.524",
-    "date": "2025-08-19T16:39:43Z"
-  },
-  {
-    "name": "emqx/emqx",
-    "version": "v5.8.8-beta.2",
-    "date": "2025-08-19T15:40:26Z"
-  },
-  {
     "name": "sabnzbd/sabnzbd",
     "version": "4.5.2",
     "date": "2025-07-09T19:08:28Z"
   },
   {
-    "name": "openhab/openhab-core",
-    "version": "5.0.1",
-    "date": "2025-08-19T14:25:29Z"
-  },
-  {
     "name": "traccar/traccar",
     "version": "v6.9.0",
     "date": "2025-08-19T14:22:26Z"
-  },
-  {
-    "name": "YunoHost/yunohost",
-    "version": "debian/12.1.11",
-    "date": "2025-08-19T13:49:52Z"
   },
   {
     "name": "fallenbagel/jellyseerr",
@@ -110,11 +200,6 @@
     "date": "2025-08-19T11:16:17Z"
   },
   {
-    "name": "duplicati/duplicati",
-    "version": "v2.1.1.101-2.1.1.101_canary_2025-08-19",
-    "date": "2025-08-19T10:45:40Z"
-  },
-  {
     "name": "crowdsecurity/crowdsec",
     "version": "v1.6.11",
     "date": "2025-07-22T12:11:38Z"
@@ -130,44 +215,14 @@
     "date": "2025-08-19T06:57:20Z"
   },
   {
-    "name": "Jackett/Jackett",
-    "version": "v0.22.2311",
-    "date": "2025-08-19T06:11:09Z"
-  },
-  {
-    "name": "morpheus65535/bazarr",
-    "version": "v1.5.3-beta.10",
-    "date": "2025-07-15T06:07:03Z"
-  },
-  {
     "name": "firefly-iii/firefly-iii",
     "version": "v6.3.2",
     "date": "2025-08-19T04:08:36Z"
   },
   {
-    "name": "ollama/ollama",
-    "version": "v0.11.5-rc5",
-    "date": "2025-08-19T00:45:40Z"
-  },
-  {
-    "name": "jeedom/core",
-    "version": "4.4.19",
-    "date": "2025-08-19T00:27:08Z"
-  },
-  {
-    "name": "steveiliop56/tinyauth",
-    "version": "v3.6.2",
-    "date": "2025-07-17T12:08:03Z"
-  },
-  {
     "name": "plexguide/Huntarr.io",
     "version": "8.2.6",
     "date": "2025-08-18T23:31:31Z"
-  },
-  {
-    "name": "keycloak/keycloak",
-    "version": "26.2.7",
-    "date": "2025-08-07T08:19:29Z"
   },
   {
     "name": "bunkerity/bunkerweb",
@@ -178,16 +233,6 @@
     "name": "immich-app/immich",
     "version": "v1.138.1",
     "date": "2025-08-18T18:51:50Z"
-  },
-  {
-    "name": "goauthentik/authentik",
-    "version": "version/2025.8.0-rc2",
-    "date": "2025-08-12T21:12:08Z"
-  },
-  {
-    "name": "n8n-io/n8n",
-    "version": "n8n@1.107.3",
-    "date": "2025-08-18T18:40:54Z"
   },
   {
     "name": "ventoy/Ventoy",
@@ -218,11 +263,6 @@
     "name": "VictoriaMetrics/VictoriaMetrics",
     "version": "pmm-6401-v1.124.0",
     "date": "2025-08-18T12:14:50Z"
-  },
-  {
-    "name": "Checkmk/checkmk",
-    "version": "v2.4.0p10-rc1",
-    "date": "2025-08-18T09:07:06Z"
   },
   {
     "name": "jupyter/notebook",
@@ -288,16 +328,6 @@
     "name": "Ombi-app/Ombi",
     "version": "v4.47.1",
     "date": "2025-01-05T21:14:23Z"
-  },
-  {
-    "name": "semaphoreui/semaphore",
-    "version": "v2.16.17",
-    "date": "2025-08-17T13:13:52Z"
-  },
-  {
-    "name": "fuma-nama/fumadocs",
-    "version": "fumadocs-core@15.6.12",
-    "date": "2025-08-17T10:37:31Z"
   },
   {
     "name": "TandoorRecipes/recipes",
@@ -375,11 +405,6 @@
     "date": "2025-08-15T14:12:26Z"
   },
   {
-    "name": "mattermost/mattermost",
-    "version": "v10.5.10",
-    "date": "2025-08-15T12:12:06Z"
-  },
-  {
     "name": "intri-in/manage-my-damn-life-nextjs",
     "version": "v0.8.0-release",
     "date": "2025-08-15T06:19:12Z"
@@ -398,16 +423,6 @@
     "name": "linkwarden/linkwarden",
     "version": "v2.11.7",
     "date": "2025-08-14T17:14:33Z"
-  },
-  {
-    "name": "AdguardTeam/AdGuardHome",
-    "version": "v0.107.64",
-    "date": "2025-07-28T14:24:56Z"
-  },
-  {
-    "name": "Luligu/matterbridge",
-    "version": "Matter-1.4.1",
-    "date": "2025-08-14T07:37:23Z"
   },
   {
     "name": "booklore-app/booklore",
@@ -630,11 +645,6 @@
     "date": "2025-08-06T14:24:58Z"
   },
   {
-    "name": "cockpit-project/cockpit",
-    "version": "344",
-    "date": "2025-08-06T13:09:25Z"
-  },
-  {
     "name": "TryGhost/Ghost-CLI",
     "version": "v1.28.3",
     "date": "2025-08-06T12:32:02Z"
@@ -643,11 +653,6 @@
     "name": "openobserve/openobserve",
     "version": "v0.15.0-rc5",
     "date": "2025-08-06T08:55:10Z"
-  },
-  {
-    "name": "theonedev/onedev",
-    "version": "v12.0.4",
-    "date": "2025-08-06T06:30:07Z"
   },
   {
     "name": "garethgeorge/backrest",
@@ -668,11 +673,6 @@
     "name": "ErsatzTV/ErsatzTV",
     "version": "v25.4.0",
     "date": "2025-08-05T17:10:01Z"
-  },
-  {
-    "name": "apache/cassandra",
-    "version": "cassandra-5.0.5",
-    "date": "2025-08-05T12:08:49Z"
   },
   {
     "name": "binwiederhier/ntfy",
